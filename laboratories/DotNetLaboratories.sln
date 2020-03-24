@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFStudiiCaz", "EFStudiiCaz\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostComment", "PostComment\PostComment.csproj", "{63278B6B-6746-49A0-B711-674DC39FB07E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectWCF", "ObjectWCF\ObjectWCF.csproj", "{4BB49E0C-1914-4A82-B274-51BBCE8B9621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostWCF", "HostWCF\HostWCF.csproj", "{D087B3B9-F0C3-4F88-9A1A-FCB438E27D5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{63278B6B-6746-49A0-B711-674DC39FB07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63278B6B-6746-49A0-B711-674DC39FB07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63278B6B-6746-49A0-B711-674DC39FB07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB49E0C-1914-4A82-B274-51BBCE8B9621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB49E0C-1914-4A82-B274-51BBCE8B9621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB49E0C-1914-4A82-B274-51BBCE8B9621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB49E0C-1914-4A82-B274-51BBCE8B9621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D087B3B9-F0C3-4F88-9A1A-FCB438E27D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D087B3B9-F0C3-4F88-9A1A-FCB438E27D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D087B3B9-F0C3-4F88-9A1A-FCB438E27D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D087B3B9-F0C3-4F88-9A1A-FCB438E27D5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
