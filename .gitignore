@@ -30,6 +30,6 @@
 *.exe
 *.out
 *.app
-
+*.pdb
 laboratories/packages/*.*
 laboratories/.vs/*
