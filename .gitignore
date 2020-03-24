@@ -31,5 +31,8 @@
 *.out
 *.app
 *.pdb
+
+bin
+obj
 laboratories/packages/*.*
 laboratories/.vs/*
